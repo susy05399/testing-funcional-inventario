@@ -1,22 +1,28 @@
-# Pruebas funcionales de una app web de control de inventario
+# 🧪 Testing funcional - Aplicación de inventario
 
-Este proyecto muestra la aplicación de pruebas funcionales manuales sobre una aplicación web de control de inventario, simulando un escenario real de testing.
+Este repositorio contiene la documentación de pruebas funcionales manuales realizadas sobre una aplicación web de control de inventario. El objetivo fue validar el cumplimiento de los criterios de aceptación y detectar posibles errores desde la perspectiva del usuario final.
 
-## 🧠 Lo que contiene:
-- Historia de usuario y criterios de aceptación
-- Diseño de casos de prueba
-- Documentación de resultados esperados y reales
-- Observaciones detalladas y hallazgos
-- Simulación de un entorno de trabajo ágil (sprint)
+## 📋 ¿Qué incluye?
+- Casos de prueba detallados
+- Resultados esperados vs reales
+- Observaciones por funcionalidad
+- Validación de criterios de aceptación
+- Organización basada en un sprint de trabajo ágil
 
-## 🛠️ Herramientas utilizadas:
-- Excel para la documentación estructurada
-- Buenas prácticas de QA manual
+## 📂 Archivos disponibles
+Los documentos están organizados por módulo dentro del archivo Excel. Cada tabla incluye:
+- ID del caso de prueba
+- Descripción
+- Datos de entrada
+- Resultado esperado
+- Resultado real
+- Observaciones
 
-## 📁 Archivo disponible:
-Puedes consultar el documento completo de pruebas aquí:  
-➡️https://docs.google.com/spreadsheets/d/1hM57t_a_QQQCo3LjBD63332rmsH6QCfe/edit?usp=drive_link&ouid=117513944676606858929&rtpof=true&sd=true
+## 👩‍💻 Autora
+**Susana Pérez Aparicio**  
+QA Tester Jr.
+
 ---
 
-**Autora:** Susana Pérez Aparicio  
-**Rol:** QA Tester Jr.  
+🔗 Si quieres consultar los documentos directamente:  
+[Ir a los archivos del repositorio](https://github.com/susy05399/testing-funcional-inventario/tree/main/docs)
