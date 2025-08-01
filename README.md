@@ -22,6 +22,20 @@ Los documentos están organizados por módulo dentro del archivo Excel. Cada tab
 **Susana Pérez Aparicio**  
 QA Tester Jr.
 
+## 🧠 Documentación visual
+
+### 🔹 Mapa mental  
+Consulta el mapa mental del proyecto aquí:  
+👉 [Abrir Mapa Mental en Google Drive](https://drive.google.com/file/d/1BKivo0j7lFJKg_CDC0Z3UD0g_VGlSkv1/view?usp=drive_link)
+
+### 🔹 Diagrama de flujo  
+Consulta el diagrama de funcionalidades:  
+👉 [Abrir Diagrama en Google Drive](https://drive.google.com/file/d/1X1YsLGAq-h5XnW46OYDkoy1rP-xz7Xil/view?usp=drive_link)
+
+## 📄 Requisitos para conducir un automóvil en Urban Routes
+### 🔹 Consulta los requisitos del proyecto aquí:
+👉 [Abrir los requisitos en google Drive](https://drive.google.com/file/d/1oplUqJgSVZz6gwj_5xD0adCW_KFyog1a/view?usp=sharing)
+
 ---
 
 🔗 Si quieres consultar los documentos directamente:  
