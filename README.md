@@ -42,9 +42,9 @@ Consulta el diagrama de funcionalidades:
 
 [Ir a los archivos del repositorio](https://github.com/susy05399/testing-funcional-inventario/tree/main/docs)
 
-- [Clases de equivalencia - Parte 1](https://github.com/susy05399/testing-funcional-inventario/blob/main/docs/clases_equivalencia_parte1.md)
-- [Clases de equivalencia - Parte 2](https://github.com/susy05399/testing-funcional-inventario/blob/main/docs/clases_equivalencia_parte2.md)
-- [Casos de prueba generales](https://github.com/susy05399/testing-funcional-inventario/blob/main/docs/casos_de_prueba.md)
+- [Clases de equivalencia - Parte 1](docs/clases_de_equivalencia_1.md)
+- [Clases de equivalencia - Parte 2](docs/clases_de_equivalencia_2.md)
+- [Casos de prueba generales](docs/casos_de_prueba.md)
 
 🔗 Si quieres consultar el link del documento directamente:
 
