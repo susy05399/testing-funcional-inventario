@@ -25,4 +25,9 @@ QA Tester Jr.
 ---
 
 🔗 Si quieres consultar los documentos directamente:  
+
 [Ir a los archivos del repositorio](https://github.com/susy05399/testing-funcional-inventario/tree/main/docs)
+
+🔗 Si quieres consultar los documentos directamente:
+
+[Ir a los archivos del repositorio](https://docs.google.com/spreadsheets/d/1hM57t_a_QQQCo3LjBD63332rmsH6QCfe/edit?gid=1899960451#gid=1899960451)
